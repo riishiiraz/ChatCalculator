@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="corner_radius">10</integer>
+    <dimen name="corner">10dp</dimen>
+</resources>
